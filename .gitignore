@@ -2,3 +2,7 @@
 build/
 node_modules/
 npm-debug.log
+
+riot-ppk.ppk
+
+riot-key.pem
